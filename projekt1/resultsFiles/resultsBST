@@ -1,0 +1,50 @@
+---- Usuwanie korzenia z drzewa BST ---
+Rozmiar drzewa\Czas[ns];t_avg
+10000;191;
+50000;427;
+100000;508;
+200000;646;
+300000;754;
+400000;765;
+500000;842;
+
+---- Dodawanie losowego elementu do drzewa BST ---
+Rozmiar drzewa\Czas[ns];t_avg
+10000;294;
+50000;382;
+100000;429;
+200000;480;
+300000;543;
+400000;611;
+500000;653;
+
+---- Wyszukiwanie losowej wartosci w drzewie BST ---
+Rozmiar drzewa\Czas[ns];t_avg
+10000;230;
+50000;302;
+100000;346;
+200000;411;
+300000;481;
+400000;533;
+500000;610;
+
+---- Rotacja korzenia w drzewie BST ---
+Rozmiar drzewa\Czas[ns];t_avg
+10000;20;
+50000;20;
+100000;21;
+200000;23;
+300000;22;
+400000;22;
+500000;21;
+
+---- Rownowazenie drzewa BST metoda DSW ---
+Rozmiar drzewa\Czas[ms];t_avg
+10000;0.2;
+50000;1.4;
+100000;3.8;
+200000;9.7;
+300000;19.1;
+400000;34.8;
+500000;59.4;
+

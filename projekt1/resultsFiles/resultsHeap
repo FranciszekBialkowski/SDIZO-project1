@@ -1,0 +1,30 @@
+---- Usuwanie korzenia z kopca ---
+Rozmiar kopca\Czas[us];t_avg
+10000;31.7;
+50000;135.4;
+100000;251.3;
+200000;483.8;
+300000;410.5;
+400000;522.0;
+500000;654.1;
+
+---- Dodawanie elementu do kopca ---
+Rozmiar kopca\Czas[us];t_avg
+10000;32.2;
+50000;80.2;
+100000;82.7;
+200000;120.0;
+300000;272.6;
+400000;281.1;
+500000;361.6;
+
+---- Wyszukiwanie losowej wartosci w kopcu ---
+Rozmiar kopca\Czas[us];t_avg
+10000;2.2;
+50000;10.4;
+100000;20.8;
+200000;40.8;
+300000;62.3;
+400000;88.7;
+500000;111.7;
+

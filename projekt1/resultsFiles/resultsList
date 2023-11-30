@@ -1,0 +1,70 @@
+---- Usuwanie pierwszego elementu z listy ---
+Rozmiar listy\Czas[ns];t_avg
+10000;202;
+50000;344;
+100000;214;
+200000;268;
+300000;353;
+400000;584;
+500000;638;
+
+---- Usuwanie ostatniego elementu z listy ---
+Rozmiar listy\Czas[ns];t_avg
+10000;210;
+50000;352;
+100000;493;
+200000;536;
+300000;627;
+400000;492;
+500000;370;
+
+---- Usuwanie losowego elementu z listy ---
+Rozmiar listy\Czas[us];t_avg
+10000;5.2;
+50000;28.7;
+100000;60.6;
+200000;130.7;
+300000;237.0;
+400000;350.7;
+500000;462.6;
+
+---- Dodawanie elementu na początek listy ---
+Rozmiar listy\Czas[ns];t_avg
+10000;39;
+50000;58;
+100000;75;
+200000;122;
+300000;136;
+400000;156;
+500000;161;
+
+---- Dodawanie elementu na koniec listy ---
+Rozmiar listy\Czas[ns];t_avg
+10000;107;
+50000;174;
+100000;216;
+200000;269;
+300000;378;
+400000;440;
+500000;391;
+
+---- Dodawanie elementu w losowe miejsce listy ---
+Rozmiar listy\Czas[us];t_avg
+10000;8.3;
+50000;51.2;
+100000;121.4;
+200000;291.3;
+300000;549.8;
+400000;848.6;
+500000;1247.6;
+
+---- Wyszukiwanie losowej wartosci w liscie ---
+Rozmiar listy\Czas[us];t_avg
+10000;31.3;
+50000;199.1;
+100000;454.1;
+200000;1082.7;
+300000;1996.5;
+400000;3174.8;
+500000;4794.5;
+
